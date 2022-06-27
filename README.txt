@@ -9,3 +9,5 @@
 // Crie um array  chamado "cadastro" contendo ao menos 5 objetos.
 // Cada objeto deve receber as seguintes propriedades: nome,  idade,  telefone, amigos
 // Na propriedade amigos, adicione ao menos 4 itens
+
+// Mostre no console o nome de um amigo de cada lista.
